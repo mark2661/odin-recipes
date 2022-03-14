@@ -1,0 +1,27 @@
+body {
+    background-color: orange;
+}
+
+h1 {
+    text-align: center;
+    font-size: 50px;
+    font-weight: 700;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+    height: auto;
+}
+
+.description  {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.description p {
+    font-size: 20px;
+}
